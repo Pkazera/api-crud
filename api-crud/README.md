@@ -1,6 +1,6 @@
 # API CRUD - Produtos
 
-API RESTful com FastAPI + MySQL + JWT, hospedada na AWS EC2.
+API RESTful com FastAPI + MySQL + JWT, hospedada no Blender.
 
 ## Tecnologias
 - **Python** + FastAPI
@@ -44,7 +44,7 @@ CREATE DATABASE crud_db;
 uvicorn main:app --reload
 ```
 
-Acesse: http://localhost:8000/docs
+Acesse: [http://localhost:8000/docs](https://api-crud-4kcb.onrender.com/docs)
 
 ---
 
